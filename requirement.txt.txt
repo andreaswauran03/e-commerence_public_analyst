@@ -1,0 +1,3 @@
+- sqlv15.0
+- tableau2019.4
+- adobeillustrator2019

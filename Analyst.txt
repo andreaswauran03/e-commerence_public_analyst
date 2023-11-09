@@ -1,0 +1,36 @@
+# DashBoard 1
+Percentage Order Status ✓
+Percentage Revenues by Order Payment ✓
+Percentage Orders by Order Payment ✓
+Total Revenues by Month ✓
+Total Order by Month ✓
+
+# Dashboard 2
+Total Revenues by Hour ✓
+Total Order by Hour ✓ 	
+Top 10 Total Revenue by Customer City ✓
+Top 10 Total Order by Customer City ✓
+
+# Dashboard 3
+Top 5 Total Revenue by Customer State ✓
+Bottom 5 Total Revenue by Customer State ✓
+Top 5 Total Order by Customer State ✓
+Bottom 5 Total Order by Customer State ✓
+Top 5 Avg Review Score by State ✓
+Bottom 5 Avg Review Score by State ✓
+
+# Dashboard 4
+Top 10 Total Revenue by Product ✓
+Bottom 10 Total Revenue by Product ✓
+Top 10 Total Order by Product ✓
+Bottom 10 Total Order by Product ✓
+Top 10 Avg Review Score by Product ✓
+Bottom 10 Avg Review Score by Product ✓
+
+
+Metric
+Total Revenue ✓
+Total Order ✓
+Avg Order Items ✓
+Avg Review Score ✓
+Avg Freight Value ✓
